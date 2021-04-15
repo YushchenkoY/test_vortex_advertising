@@ -13,7 +13,6 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  border: 1px solid black;
 }
 .img-loading{
   width: 200px;
